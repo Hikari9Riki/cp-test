@@ -1,0 +1,10 @@
+[
+  {"id": "1", "name": "Badminton racket", "location": "Sports Centre", "type": "Racket", "quantity": 12, "condition": "Good", "notes": "Yonex rackets with fresh grips. Shuttlecocks are sold at the counter."},
+  {"id": "2", "name": "Futsal ball", "location": "Sports Centre", "type": "Ball", "quantity": 8, "condition": "Good", "notes": "Size 4 low-bounce balls for the indoor futsal court."},
+  {"id": "3", "name": "Yoga mat", "location": "Female Gym", "type": "Fitness", "quantity": 15, "condition": "Fair", "notes": "6 mm mats. Please wipe the mat before returning it."},
+  {"id": "4", "name": "Table tennis bat", "location": "Mahallah Ali", "type": "Racket", "quantity": 10, "condition": "Good", "notes": "Two-star bats with spare balls in the common room."},
+  {"id": "5", "name": "Volleyball", "location": "Sports Centre", "type": "Ball", "quantity": 6, "condition": "Fair", "notes": "Indoor volleyballs. Pump available at the counter."},
+  {"id": "6", "name": "Skipping rope", "location": "Male Gym", "type": "Fitness", "quantity": 20, "condition": "Good", "notes": "Adjustable speed ropes for warm-ups and cardio."},
+  {"id": "7", "name": "Squash racket", "location": "Squash Court", "type": "Racket", "quantity": 4, "condition": "Worn", "notes": "Older rackets; bring your own grip if you play often."},
+  {"id": "8", "name": "Football", "location": "Main Field", "type": "Ball", "quantity": 10, "condition": "Good", "notes": "Size 5 balls for the main field. Not for the futsal court."}
+]
